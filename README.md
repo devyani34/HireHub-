@@ -38,7 +38,7 @@ It offers an intuitive and efficient interface for employers to create job listi
 3. Install the required dependencies for both the frontend and backend:
     ```sh
     npm install
-    cd client
+    cd frontend
     npm install
     cd ..
     ```
